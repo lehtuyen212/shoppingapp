@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "306235911108",
+    "firebase_url": "https://online-shop-android-pets-db-default-rtdb.firebaseio.com",
+    "project_id": "online-shop-android-pets-db",
+    "storage_bucket": "online-shop-android-pets-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306235911108:android:f1f431f69978a6ebdbd291",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopandroidpets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8U5JCvAQKjVj30yYoqPdWNgMlM3eT20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306235911108:android:2204fa0ff5b2b34edbd291",
+        "android_client_info": {
+          "package_name": "com.example.onlineshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8U5JCvAQKjVj30yYoqPdWNgMlM3eT20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306235911108:android:210f255b95c478fadbd291",
+        "android_client_info": {
+          "package_name": "com.example.project1763"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8U5JCvAQKjVj30yYoqPdWNgMlM3eT20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
